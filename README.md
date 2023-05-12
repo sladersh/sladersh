@@ -1,5 +1,3 @@
 - 👋 Hi, I’m <strong>Adersh S L</strong>.
-- 😇 I am working as an Angular developer at Tata Consultancy Services.
-- 👀 I’m interested in working on Front end and Full stack development projects using Angular.
-- 🌱 I’m currently learning MEAN stack.
+- 👀 I’m interested in working on Front end and Full stack development projects with Angular, React and JavaScript.
 - 📫 How to reach me - mail me at <strong>iamadershsl@gmail.com</strong>
